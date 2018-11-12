@@ -7,5 +7,5 @@ def my_select(collection)
     new_array << new_item
     i += 1
   end
-  return new_array
+  new_array
 end
